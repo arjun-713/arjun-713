@@ -78,5 +78,5 @@ Building clean interfaces today, scalable systems tomorrow.
 ---
 
 <p align="center">
-⚠️ Still learning. Still building. Still shipping.
+Still learning. Still building. Still shipping.
 </p>
